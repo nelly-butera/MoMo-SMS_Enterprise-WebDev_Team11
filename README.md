@@ -26,7 +26,7 @@ This repository represents **Week 1 – Team Setup & Project Planning**, focusin
 
 
 ### Repo Structure
-.
+```bash
 ├── README.md
 ├── .env.example 
 ├── requirements.txt #
@@ -37,7 +37,7 @@ This repository represents **Week 1 – Team Setup & Project Planning**, focusin
 ├── api/
 ├── scripts/
 └── tests/
-
+```
 
 ### Architecture Diagram: 
   <Paste your Draw.io or Miro link here>
