@@ -26,6 +26,7 @@ This repository represents **Week 1 – Team Setup & Project Planning**, focusin
 
 
 ### Repo Structure
+.
 ├── README.md
 ├── .env.example 
 ├── requirements.txt #
