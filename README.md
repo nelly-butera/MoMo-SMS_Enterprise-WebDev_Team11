@@ -40,7 +40,7 @@ This repository represents **Week 1 – Team Setup & Project Planning**, focusin
 ```
 
 ### Architecture Diagram: 
-  <Paste your Draw.io or Miro link here>
+  https://miro.com/app/board/uXjVGRWd6vw=/?share_link_id=987046808677
   The architecture diagram image/file is also committed to this repository.
 
 
