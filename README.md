@@ -45,7 +45,8 @@ This repository represents **Week 1 – Team Setup & Project Planning**, focusin
 
 
 ### Scrum Board Link
-  <Paste your GitHub Projects / Trello / Jira link here>
+  
+  https://alustudent-team-11.atlassian.net/jira/software/projects/DEV/boards/2?atlOrigin=eyJpIjoiZmRjNTMwOGRhMmFhNGY1Y2EwZTQyZGQ0ODdmOWYwNDYiLCJwIjoiaiJ9
 
 ### Tech Stack
 - **Backend:**
