@@ -1,4 +1,4 @@
-USE MoMo_SMS_data_processing_system;
+USE momo_sms_system;
 
 -- 1.creating a new customer
 INSERT INTO users (first_name, last_name, phone_number, account_type) 
